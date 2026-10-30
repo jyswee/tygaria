@@ -1,0 +1,1116 @@
+{
+  "work": "TYGARIA \u2014 a multiverse in three volumes",
+  "owner": "Tyga.Cloud Ltd",
+  "notice": "(c) 2026 Tyga.Cloud Ltd. All rights reserved. TYGARIA(TM) is an unregistered trade mark of Tyga.Cloud Ltd. Copyright subsists automatically under Article 5(2) of the Berne Convention; no registration or deposit is required.",
+  "purpose": "A dated, independently timestamped record of EXISTENCE and CONTENT of the work as at the release date, WITHOUT disclosing the work. Each sha256 below is of the exact file bytes. Producing a file that hashes to its listed value proves that file existed, unchanged, on or before the release timestamp.",
+  "generated_utc": "2026-10-30T11:13:00Z",
+  "algorithm": "sha256 over raw file bytes",
+  "totals": {
+    "files": 180,
+    "bytes": 22864743,
+    "words": 528622
+  },
+  "volumes": {
+    "tygaria-vol1": {
+      "files": 52,
+      "bytes": 4803752,
+      "words": 93498,
+      "manifest": [
+        {
+          "path": "docs/story/tygaria-vol1/00-front-matter.md",
+          "bytes": 929,
+          "words": 164,
+          "sha256": "6e23624905980ed6cfdc951ba812b080718885cd7e533a59c4f7bba67bfe7b9d"
+        },
+        {
+          "path": "docs/story/tygaria-vol1/ART-PLATES.md",
+          "bytes": 50776,
+          "words": 7868,
+          "sha256": "c9710f50205b9983ff81e3eb5cbd9503dac58b10ba3cdf6ddbaeb3fc407d7ab6"
+        },
+        {
+          "path": "docs/story/tygaria-vol1/HERO-DOOR-BRIEF.md",
+          "bytes": 9737,
+          "words": 1581,
+          "sha256": "7f491bcd824d8e13e3e36cf6e00bbffcbba22ec4d457a5c1b5c5d37c469186a3"
+        },
+        {
+          "path": "docs/story/tygaria-vol1/HERO-SPLASH-STORYBOARD.md",
+          "bytes": 11642,
+          "words": 1562,
+          "sha256": "1eb0a5dce2e6db746743abbdb6c1337d38784f6110f4669849f8a9a34fa6ddd6"
+        },
+        {
+          "path": "docs/story/tygaria-vol1/MOVIE-TREATMENT.md",
+          "bytes": 7015,
+          "words": 1224,
+          "sha256": "7bf2711d983621326eb163f2dbd4cc0fb67ad5001254ec342afe1a96170034f2"
+        },
+        {
+          "path": "docs/story/tygaria-vol1/SPINE.md",
+          "bytes": 32251,
+          "words": 5839,
+          "sha256": "b2a8720534c6273faf96c4139a875f5bd5239cef9f12bc6aa988b9a015f70dde"
+        },
+        {
+          "path": "docs/story/tygaria-vol1/STORE-PROPS-MIDJOURNEY.md",
+          "bytes": 24489,
+          "words": 3616,
+          "sha256": "2b2c022661a43fc2438644fecab9c1fd1c94fa7564f7d0a5961f4fee392ed511"
+        },
+        {
+          "path": "docs/story/tygaria-vol1/bible.md",
+          "bytes": 15469,
+          "words": 2587,
+          "sha256": "e00cc026ad4638ab2224126034740dfdca3d6ef0a9283b099a6a4814b351a62e"
+        },
+        {
+          "path": "docs/story/tygaria-vol1/four-worlds.md",
+          "bytes": 19470,
+          "words": 3321,
+          "sha256": "9600e26681fbdf150d0c8b2760204321f997ac187cc823dcc883498765de0d3d"
+        },
+        {
+          "path": "docs/story/tygaria-vol1/midjourney-missing-plates.txt",
+          "bytes": 79070,
+          "words": 10953,
+          "sha256": "3cde6d8ae89708aa894a026adc9e05c65c83b22a871c1afb629797a6015d30ac"
+        },
+        {
+          "path": "docs/story/tygaria-vol1/portrait-plates.json",
+          "bytes": 3354,
+          "words": 0,
+          "sha256": "55160c09e2fb31d220b255293308fdbb3427a6c96ac90d4a54c0c42218db7754"
+        },
+        {
+          "path": "docs/story/tygaria-vol1/screenplay/00-title.fountain",
+          "bytes": 172,
+          "words": 0,
+          "sha256": "935a6bc993e03b98461f53f78fbdc6a2cbe3816da5d773492aad75da15309c2e"
+        },
+        {
+          "path": "docs/story/tygaria-vol1/screenplay/01-act-one.fountain",
+          "bytes": 41140,
+          "words": 0,
+          "sha256": "972cf1e1489d76db5422798e500224ef14934ca2d3747a5990b7c05b11dd86b0"
+        },
+        {
+          "path": "docs/story/tygaria-vol1/screenplay/reviews/act1-round1-coverage.md",
+          "bytes": 34778,
+          "words": 6310,
+          "sha256": "0c2d8da675a034dd6a37a0044f2d570c3b2451c43ec274f244cd2d4aaf1511e1"
+        },
+        {
+          "path": "docs/story/tygaria-vol1/screenplay/reviews/act1-round1-plotholes.md",
+          "bytes": 20543,
+          "words": 3776,
+          "sha256": "1574c400423fc36f2e1c75bc8a432369acbba8830c7caa2de8d755ad3cb25606"
+        },
+        {
+          "path": "docs/story/tygaria-vol1/screenplay/reviews/act1-round1-response.md",
+          "bytes": 13585,
+          "words": 2622,
+          "sha256": "f5d0ad662e0a4bb04c6f53b8035255b7a35f75744ced01f866ff62191140c1a5"
+        },
+        {
+          "path": "docs/story/tygaria-vol1/screenplay/reviews/act1-round2.md",
+          "bytes": 33329,
+          "words": 6084,
+          "sha256": "aee8cd6f06ada4145d980af89c3a447ab842a7ad70a06d82e6d53bcbb2f35143"
+        },
+        {
+          "path": "docs/story/tygaria-vol1/chapters/00-prologue.md",
+          "bytes": 5929,
+          "words": 1157,
+          "sha256": "ee6de5a13532b39d2a14cc0f29ddd8fb0ea5d0e2c7125f9f26a76b7371972951"
+        },
+        {
+          "path": "docs/story/tygaria-vol1/chapters/01-cold-open.md",
+          "bytes": 5645,
+          "words": 1119,
+          "sha256": "29553c00d1ec6d5a055952b34aeeaa1eed5f614a4f202af45466ba41b5a289cb"
+        },
+        {
+          "path": "docs/story/tygaria-vol1/chapters/02-the-one-armed-man-has-two.md",
+          "bytes": 6633,
+          "words": 1279,
+          "sha256": "595ae4dd254cfaa17dd4b422b5ba4b90f563dc764e5db989cb706ec7b5d92b2e"
+        },
+        {
+          "path": "docs/story/tygaria-vol1/chapters/03-the-keeper-of-the-crossroads.md",
+          "bytes": 6855,
+          "words": 1350,
+          "sha256": "b44dfff9561e8b8517a9cff3a9752f29e5f5ed181d4e218ee4afdd4796003478"
+        },
+        {
+          "path": "docs/story/tygaria-vol1/chapters/04-emberfang.md",
+          "bytes": 5473,
+          "words": 1058,
+          "sha256": "d4b37bed5c7146125616f5e081ee83f64087441866d4e409677c750faf0ee510"
+        },
+        {
+          "path": "docs/story/tygaria-vol1/chapters/05-pixels-dont-bleed.md",
+          "bytes": 6473,
+          "words": 1253,
+          "sha256": "cc8442c07c9c69133fa986926670c52fa54b8181aa0cb33f451c5adaced9b0fd"
+        },
+        {
+          "path": "docs/story/tygaria-vol1/chapters/06-the-commanders-table.md",
+          "bytes": 6530,
+          "words": 1253,
+          "sha256": "e5b3f7c66bda1a83eb17313cd89c440f13e5d926e2087137791542b50b7bcc5a"
+        },
+        {
+          "path": "docs/story/tygaria-vol1/chapters/07-steelhand.md",
+          "bytes": 8083,
+          "words": 1558,
+          "sha256": "1f1a2b512e92a1ad8185d23694cbc865d6086951e277f87b1ee69bcb6b5294cc"
+        },
+        {
+          "path": "docs/story/tygaria-vol1/chapters/08-the-board-you-cant-reload.md",
+          "bytes": 6458,
+          "words": 1247,
+          "sha256": "e2550c6600ef8833980ecbfc78c7b8deb604e7c4fa1804ce009991ec8a923d1e"
+        },
+        {
+          "path": "docs/story/tygaria-vol1/chapters/09-what-he-knows.md",
+          "bytes": 8471,
+          "words": 1640,
+          "sha256": "2012c0373946876301c5f0aa84b19678d0de2e75883f2a809d4c550e88ea53d3"
+        },
+        {
+          "path": "docs/story/tygaria-vol1/chapters/10-whispers-price.md",
+          "bytes": 6911,
+          "words": 1325,
+          "sha256": "493a21a9682d5c9647db6c52d809b4028f4a09f08d483c02ab104af50c20d70a"
+        },
+        {
+          "path": "docs/story/tygaria-vol1/chapters/11-the-peaks.md",
+          "bytes": 6892,
+          "words": 1340,
+          "sha256": "ea97ead1dc1aab374794273851a5f3c598f2eaa33b5aca185f39f2e567e7a5ee"
+        },
+        {
+          "path": "docs/story/tygaria-vol1/chapters/12-the-wyrm-remembers-branching.md",
+          "bytes": 7338,
+          "words": 1405,
+          "sha256": "26ef96d3aaafa39ca7c9591f958a2f8586fc3db39ea3181c3d0ac7d6003f2812"
+        },
+        {
+          "path": "docs/story/tygaria-vol1/chapters/13-provenance.md",
+          "bytes": 3521,
+          "words": 699,
+          "sha256": "4b8e8f9b04fbabc9ddcc7e463cd0ff0bcbeb9e05fdee89955f02a4a8c09ede61"
+        },
+        {
+          "path": "docs/story/tygaria-vol1/chapters/14-the-warning.md",
+          "bytes": 7683,
+          "words": 1507,
+          "sha256": "30624ed0d40f21dca5c99dc1692a6d3a6b087abe14cb555c6fc8797369c648eb"
+        },
+        {
+          "path": "docs/story/tygaria-vol1/chapters/15-threads.md",
+          "bytes": 6101,
+          "words": 1162,
+          "sha256": "2c63a15c9d7f8b0fb051db1db2ce3f89ac5798869522163b1af5348775c171ed"
+        },
+        {
+          "path": "docs/story/tygaria-vol1/chapters/16-the-door-opens-both-ways.md",
+          "bytes": 7401,
+          "words": 1421,
+          "sha256": "58e3856eae06e84e5cb2cf7a81ded9b416ab17e013ce7e5471a9d89545216e51"
+        },
+        {
+          "path": "docs/story/tygaria-vol1/chapters/17-muster.md",
+          "bytes": 11104,
+          "words": 2142,
+          "sha256": "58c9a66862ed7d154da64ec59525ab0cc191935dedf08a103a64bef3aeab419a"
+        },
+        {
+          "path": "docs/story/tygaria-vol1/chapters/18-the-thing-from-the-other-side.md",
+          "bytes": 10774,
+          "words": 2077,
+          "sha256": "489c05c8805269d58ec3d0a9cad7aa551b67da4a989c10886f9f58f7893d1395"
+        },
+        {
+          "path": "docs/story/tygaria-vol1/chapters/19-ash-and-watch.md",
+          "bytes": 7317,
+          "words": 1438,
+          "sha256": "07d7272989b693ffecdd7fbfd6a15000490ee9131d91ec10cadf2923f78bedeb"
+        },
+        {
+          "path": "docs/story/tygaria-vol1/chapters/20-the-choice-at-the-wall.md",
+          "bytes": 9397,
+          "words": 1862,
+          "sha256": "f6ffa8dda134dc1e085cc118b2d0d09151a484f1e92c276c056910fe4505bb7b"
+        },
+        {
+          "path": "docs/story/tygaria-vol1/chapters/21-what-breaks.md",
+          "bytes": 8834,
+          "words": 1799,
+          "sha256": "9496bd5bec468e8213451baa12a45c2bea9451bc32b59b085584e299b4cb34ec"
+        },
+        {
+          "path": "docs/story/tygaria-vol1/chapters/22-the-cost-of-knowing.md",
+          "bytes": 3834,
+          "words": 749,
+          "sha256": "74d384919ce4625cbaf7217a770748a0ad139be16f6fc29ca73c881cb05a712d"
+        },
+        {
+          "path": "docs/story/tygaria-vol1/chapters/23-the-nightbloom-door.md",
+          "bytes": 5918,
+          "words": 1158,
+          "sha256": "8048287e569b0ea8af2b7c285f0c5bfd1f53f54b02ae1c555b409f29ffa4a2ed"
+        },
+        {
+          "path": "docs/story/tygaria-vol1/chapters/24-player-two.md",
+          "bytes": 5434,
+          "words": 1058,
+          "sha256": "a4317d8761cb3c3d14d8ab7c6514eaa4a75dd8d2807ba443552916e9465461f2"
+        },
+        {
+          "path": "docs/story/tygaria-vol1/chapters/25-epilogue-some-are-real.md",
+          "bytes": 6126,
+          "words": 1205,
+          "sha256": "69b977bce79a5b8235561d21758ffb17e3e23324d7f99ee86eebc261f525fca9"
+        },
+        {
+          "path": "docs/story/tygaria-vol1/kdp/LISTING.md",
+          "bytes": 4040,
+          "words": 730,
+          "sha256": "afa5fe9f8b4187f2cc8c446513ac3dfc02add3e62c4237931ecb6f733aeac74e"
+        },
+        {
+          "path": "docs/story/tygaria-vol1/kdp/author-central-square.jpg",
+          "bytes": 96540,
+          "words": 0,
+          "sha256": "295cd48449a845d6a06d6969e0cddf99d88f9ff5e0dac9eada8066212d8d79db"
+        },
+        {
+          "path": "docs/story/tygaria-vol1/kdp/author-ebook.jpg",
+          "bytes": 31178,
+          "words": 0,
+          "sha256": "451fc84b4ef84a169bf059a73aa8d870b418ef6a1878710f61802ff874a7cf74"
+        },
+        {
+          "path": "docs/story/tygaria-vol1/kdp/author-rhiannon-bishop.jpg",
+          "bytes": 301219,
+          "words": 0,
+          "sha256": "10e00e84562c6a54174728df6002495510f5826c2e8cd29b48676ef5ebf294a9"
+        },
+        {
+          "path": "docs/story/tygaria-vol1/kdp/cover-art.png",
+          "bytes": 2787386,
+          "words": 0,
+          "sha256": "ec0b6887a7cd32e6abf26d3c1922b1fbf889f2764f99ba0002f7b0848b5eb136"
+        },
+        {
+          "path": "docs/story/tygaria-vol1/kdp/cover-front.jpg",
+          "bytes": 853176,
+          "words": 0,
+          "sha256": "325f1983433156e686dd8fd90cb7d14e0592b1cc7e7a0635a5aaea575ae9f831"
+        },
+        {
+          "path": "docs/story/tygaria-vol1/kdp/cover.typ",
+          "bytes": 905,
+          "words": 0,
+          "sha256": "0f17c9900eb6788d41f5294bd817c7e15973cf5fcb1352bf768c3a43e527cccf"
+        },
+        {
+          "path": "docs/story/tygaria-vol1/kdp/fonts/PressStart2P.ttf",
+          "bytes": 118204,
+          "words": 0,
+          "sha256": "034c77f1f05ec89421e4a63f0e3a4ca1ecf852cc6d2bf611f126f275728e017d"
+        },
+        {
+          "path": "docs/story/tygaria-vol1/kdp/fonts/Silkscreen.ttf",
+          "bytes": 32220,
+          "words": 0,
+          "sha256": "c845473330b94c2079ce9af01c51ac8ba2d99c24f4d14c039843bbb8e642ebd8"
+        }
+      ]
+    },
+    "tygaria-vol2": {
+      "files": 66,
+      "bytes": 9849695,
+      "words": 216164,
+      "manifest": [
+        {
+          "path": "docs/story/tygaria-vol2/00-front-matter.md",
+          "bytes": 3355,
+          "words": 649,
+          "sha256": "16c9043b9e30bd71dc27dd51c877aa9acbcbf55982dc5ff1f9a41bcb9fac6e48"
+        },
+        {
+          "path": "docs/story/tygaria-vol2/CRAFT-REVIEW-2.md",
+          "bytes": 16687,
+          "words": 3143,
+          "sha256": "043165fc455e934c6d23c60189859eaf3b050edfc16a30e73ac39c050678c571"
+        },
+        {
+          "path": "docs/story/tygaria-vol2/CRAFT-REVIEW.md",
+          "bytes": 19059,
+          "words": 3542,
+          "sha256": "620ac34b443ac5a9cb4d62e1f7a4f4d7b09f16c15f2bf5ec7d829cdbdf09ea6f"
+        },
+        {
+          "path": "docs/story/tygaria-vol2/CRITIC-NOTES.md",
+          "bytes": 2829,
+          "words": 504,
+          "sha256": "b050303cf2750797c115f11a9486f59a6899c7f3e5686457225a04e56e9ca270"
+        },
+        {
+          "path": "docs/story/tygaria-vol2/SPINE.md",
+          "bytes": 178329,
+          "words": 32882,
+          "sha256": "968d5d834e5b0173fed5c50cbc73533ff9ec851ab6ac729edb22c1acb1c880d3"
+        },
+        {
+          "path": "docs/story/tygaria-vol2/TREATMENT.md",
+          "bytes": 87234,
+          "words": 16227,
+          "sha256": "709943d0ba407513ab3046c11d660dcb2cb9df731ca0f84c4a6fff2dea018492"
+        },
+        {
+          "path": "docs/story/tygaria-vol2/portrait-plates.json",
+          "bytes": 5185,
+          "words": 0,
+          "sha256": "2a5e543b25082928d18f76ca2cfc52fad02be5bfa98b195162f95991f5927e74"
+        },
+        {
+          "path": "docs/story/tygaria-vol2/chapters/00-prologue.md",
+          "bytes": 6524,
+          "words": 1287,
+          "sha256": "d0f64ad5c17c59be44ab3bee5dfaa2add0d99968d6f56e07af6a5096a5f7365a"
+        },
+        {
+          "path": "docs/story/tygaria-vol2/chapters/01-continue.md",
+          "bytes": 6679,
+          "words": 1280,
+          "sha256": "b1c7a640f723ceb8340729874a3e9ff10eb74daba3498cc204cb0840debd6e6d"
+        },
+        {
+          "path": "docs/story/tygaria-vol2/chapters/02-the-dead-boy-has-a-name.md",
+          "bytes": 7643,
+          "words": 1491,
+          "sha256": "6405c387e3589b8c543f187fb7b322a68022d947980bbfc885a44c43ddaa1bd7"
+        },
+        {
+          "path": "docs/story/tygaria-vol2/chapters/03-the-keeper-who-never-kept.md",
+          "bytes": 7997,
+          "words": 1567,
+          "sha256": "51b999d583ca8e4cd3aaf6e11c30f65fec436e9b51812aef735776c308d9b22d"
+        },
+        {
+          "path": "docs/story/tygaria-vol2/chapters/04-emberfang-goes-cold.md",
+          "bytes": 9085,
+          "words": 1789,
+          "sha256": "3f178b50b2f6118feb55c12896d94073f528da6da56235f0bc58bdadfbdee7f2"
+        },
+        {
+          "path": "docs/story/tygaria-vol2/chapters/05-infinite-lives.md",
+          "bytes": 7154,
+          "words": 1403,
+          "sha256": "4f69b448ed273d65db12ae8a40e3ebf5bb983c0076316490332a2e33c188d2b3"
+        },
+        {
+          "path": "docs/story/tygaria-vol2/chapters/06-the-archweavers-table.md",
+          "bytes": 7097,
+          "words": 1411,
+          "sha256": "acadced6cd05bbc99c5025b3288f4510f7fa1a72c44bc1ddeaa167f370790cbd"
+        },
+        {
+          "path": "docs/story/tygaria-vol2/chapters/07-a-payment-plan.md",
+          "bytes": 10368,
+          "words": 2017,
+          "sha256": "84dc3d3a4fbe5d792736e136cd83f7712ce940d6ccc69d392d42dc9bd998bb2e"
+        },
+        {
+          "path": "docs/story/tygaria-vol2/chapters/08-welcome-to-ironforge.md",
+          "bytes": 10822,
+          "words": 2077,
+          "sha256": "599086e3ca8b764a2efc21024a445c8df2fdbb91c0352766dcd4491ecca3544f"
+        },
+        {
+          "path": "docs/story/tygaria-vol2/chapters/09-what-he-keeps.md",
+          "bytes": 11637,
+          "words": 2260,
+          "sha256": "5ccd87513623f3983c6ba9dbc3bc000fba725ea8c4f4de586bdefbbe26cf7d55"
+        },
+        {
+          "path": "docs/story/tygaria-vol2/chapters/10-the-book-you-cant-shut.md",
+          "bytes": 10517,
+          "words": 2089,
+          "sha256": "dfc79d7ad306d6d33d7cb1389b1d3530924ff3c69ffaf1c8a9a5084ca03fef22"
+        },
+        {
+          "path": "docs/story/tygaria-vol2/chapters/11-the-roots.md",
+          "bytes": 10917,
+          "words": 2084,
+          "sha256": "6c335eae936515c9fd544cc3902dbf951d7abc13be777bef7a9d1f8f270e500b"
+        },
+        {
+          "path": "docs/story/tygaria-vol2/chapters/12-it-kept-what-he-wrote.md",
+          "bytes": 14076,
+          "words": 2756,
+          "sha256": "580dc601c32c39784ceb3211839705d0f460da6632d7139d978e8cc255e4921f"
+        },
+        {
+          "path": "docs/story/tygaria-vol2/chapters/13-not-the-first.md",
+          "bytes": 6415,
+          "words": 1257,
+          "sha256": "54596d45cab29fb7b8eb2e3bf22899a742f25399fc60bea51f499fd7aebfb332"
+        },
+        {
+          "path": "docs/story/tygaria-vol2/chapters/14-the-loose-page.md",
+          "bytes": 8702,
+          "words": 1705,
+          "sha256": "3590097a3657bd31850a575eeb8ff0457e8e6172ae22b65d45169dcbf2d632a2"
+        },
+        {
+          "path": "docs/story/tygaria-vol2/chapters/15-or-its-sister.md",
+          "bytes": 6934,
+          "words": 1378,
+          "sha256": "bdb63dd79411fc94f147ad2e6890fe7a7f26edda63eac788f3621d4d0bcacde7"
+        },
+        {
+          "path": "docs/story/tygaria-vol2/chapters/16-the-boy-who-named-the-lure.md",
+          "bytes": 9521,
+          "words": 1865,
+          "sha256": "581a0938176bcca7c57ceeaf1e6459a657242cbf194f59419bc8e4a82af4b527"
+        },
+        {
+          "path": "docs/story/tygaria-vol2/chapters/17-yes.md",
+          "bytes": 13882,
+          "words": 2721,
+          "sha256": "9ad2b67eb8cae423cf30f5e53efef9ba3048698a5f33e13db55f06a3b370d017"
+        },
+        {
+          "path": "docs/story/tygaria-vol2/chapters/18-the-draft-names-the-draft.md",
+          "bytes": 13742,
+          "words": 2680,
+          "sha256": "cd966ab4ed6364b4cf2b8da8f6f1163d03e28e7e0850ae1a75d94b724275939d"
+        },
+        {
+          "path": "docs/story/tygaria-vol2/chapters/19-two-moons.md",
+          "bytes": 8354,
+          "words": 1671,
+          "sha256": "c22851310f4791bf403c1f7f70311223ba367d218fb42b240581707a1899a647"
+        },
+        {
+          "path": "docs/story/tygaria-vol2/chapters/20-the-choice-in-the-grove.md",
+          "bytes": 12230,
+          "words": 2478,
+          "sha256": "d840de4e40352fc6ab5fb2fd39f3427a96fcd4cc7569358905a1185b474498c9"
+        },
+        {
+          "path": "docs/story/tygaria-vol2/chapters/21-what-holds.md",
+          "bytes": 12455,
+          "words": 2505,
+          "sha256": "1c25407f553166ce9951f5e8776900cdbcadf7129d9bb3992612e72f42bebed3"
+        },
+        {
+          "path": "docs/story/tygaria-vol2/chapters/22-again.md",
+          "bytes": 9969,
+          "words": 2007,
+          "sha256": "d103fc441d5d018d66c6df1c9d81e42f43add0317331106ab9ee0c8ba0191404"
+        },
+        {
+          "path": "docs/story/tygaria-vol2/chapters/23-the-ashwatch-seam.md",
+          "bytes": 8262,
+          "words": 1645,
+          "sha256": "3cc6ea3efc8d60e3d52af10654e6e948a4a3329686a83d4c2552886259c17989"
+        },
+        {
+          "path": "docs/story/tygaria-vol2/chapters/24-you-were-right.md",
+          "bytes": 7642,
+          "words": 1568,
+          "sha256": "1bbf036c7fb4c28e0d784fcb210bef789f5900c328532305f34c86b6347b337b"
+        },
+        {
+          "path": "docs/story/tygaria-vol2/chapters/25-epilogue-some-are-kept.md",
+          "bytes": 6582,
+          "words": 1342,
+          "sha256": "adc8951a992a9b6a67248cb1313aa13db1f69219211b30e493f931ecd27821dd"
+        },
+        {
+          "path": "docs/story/tygaria-vol2/kdp/LISTING.md",
+          "bytes": 3882,
+          "words": 697,
+          "sha256": "713c55de0259930e069a1f8fa18accfd48ef7ea8492228c0035829b003e02c07"
+        },
+        {
+          "path": "docs/story/tygaria-vol2/kdp/author-central-square.jpg",
+          "bytes": 96540,
+          "words": 0,
+          "sha256": "295cd48449a845d6a06d6969e0cddf99d88f9ff5e0dac9eada8066212d8d79db"
+        },
+        {
+          "path": "docs/story/tygaria-vol2/kdp/author-ebook.jpg",
+          "bytes": 31178,
+          "words": 0,
+          "sha256": "451fc84b4ef84a169bf059a73aa8d870b418ef6a1878710f61802ff874a7cf74"
+        },
+        {
+          "path": "docs/story/tygaria-vol2/kdp/author-rhiannon-bishop.jpg",
+          "bytes": 301219,
+          "words": 0,
+          "sha256": "10e00e84562c6a54174728df6002495510f5826c2e8cd29b48676ef5ebf294a9"
+        },
+        {
+          "path": "docs/story/tygaria-vol2/kdp/cover-art.png",
+          "bytes": 5315178,
+          "words": 0,
+          "sha256": "80ece5b81edeefb3a9a8d855ca11fac4acab593fb3ba5cff22fa7211317c6fdb"
+        },
+        {
+          "path": "docs/story/tygaria-vol2/kdp/cover-front.jpg",
+          "bytes": 1259031,
+          "words": 0,
+          "sha256": "a8bd2eb7031b6964d47a729e705c895e43b779042672ab3f2bdc8605396524e5"
+        },
+        {
+          "path": "docs/story/tygaria-vol2/kdp/cover-original.png",
+          "bytes": 1543203,
+          "words": 0,
+          "sha256": "aca3c72f84b4cb50535c0dec7f03a6e641d585a98d0480794d4e9e69234b4e2f"
+        },
+        {
+          "path": "docs/story/tygaria-vol2/kdp/cover.typ",
+          "bytes": 906,
+          "words": 0,
+          "sha256": "62c1ace4986a3c4e43cd1ee7ec848808920c3e565d32710e22a35b3870a9ec35"
+        },
+        {
+          "path": "docs/story/tygaria-vol2/kdp/fonts/PressStart2P.ttf",
+          "bytes": 118204,
+          "words": 0,
+          "sha256": "034c77f1f05ec89421e4a63f0e3a4ca1ecf852cc6d2bf611f126f275728e017d"
+        },
+        {
+          "path": "docs/story/tygaria-vol2/kdp/fonts/Silkscreen.ttf",
+          "bytes": 32220,
+          "words": 0,
+          "sha256": "c845473330b94c2079ce9af01c51ac8ba2d99c24f4d14c039843bbb8e642ebd8"
+        },
+        {
+          "path": "docs/story/tygaria-vol2/reviews/act1-round1-editorial.md",
+          "bytes": 30477,
+          "words": 5573,
+          "sha256": "2a39b0132273386fec6e20bd814b69adadfdbf2183b0a99104110cd5cbb7ab7a"
+        },
+        {
+          "path": "docs/story/tygaria-vol2/reviews/act1-round1-film.md",
+          "bytes": 41250,
+          "words": 7841,
+          "sha256": "4378d128c9866d655a7b0eede11228265aa49e095352cc93157aed317e12cc5c"
+        },
+        {
+          "path": "docs/story/tygaria-vol2/reviews/act1-round1-plotholes.md",
+          "bytes": 24911,
+          "words": 4658,
+          "sha256": "c4daa5f2c090f0f206b75810bb957f489e94d1760381be072aaf6b670770c2bb"
+        },
+        {
+          "path": "docs/story/tygaria-vol2/reviews/act1-round1-response.md",
+          "bytes": 17349,
+          "words": 3345,
+          "sha256": "823f1a309c29f4bee62a2cf8155ef9c5999bc877415615932168251688bac1c5"
+        },
+        {
+          "path": "docs/story/tygaria-vol2/reviews/act1-round2-response.md",
+          "bytes": 4739,
+          "words": 896,
+          "sha256": "71a3a96583b10ec3549928fbe49813834121c5e52ff1ff400506a02f03e7494c"
+        },
+        {
+          "path": "docs/story/tygaria-vol2/reviews/act1-round2.md",
+          "bytes": 34026,
+          "words": 6242,
+          "sha256": "c2cd19fc343f1e7f38de7599b1d26f5f883fb052f94adb3c6ae71683b7ab4f73"
+        },
+        {
+          "path": "docs/story/tygaria-vol2/reviews/act2a-round1-editorial.md",
+          "bytes": 39246,
+          "words": 7025,
+          "sha256": "d38b6fd32a78b6fed3e90fd5c320d0c2972bdf999a3cc53329fb2a4a6601c398"
+        },
+        {
+          "path": "docs/story/tygaria-vol2/reviews/act2a-round1-film.md",
+          "bytes": 43666,
+          "words": 8366,
+          "sha256": "19ba36369d3ce20e7a3dd4795d6025dbfbf44ad79cb62b511ad1a16b810f0644"
+        },
+        {
+          "path": "docs/story/tygaria-vol2/reviews/act2a-round1-plotholes.md",
+          "bytes": 23520,
+          "words": 4500,
+          "sha256": "a716facff71176b4b257a299b21a2b421bbd1e6b016a09493a116f317dee1d99"
+        },
+        {
+          "path": "docs/story/tygaria-vol2/reviews/act2a-round1-response.md",
+          "bytes": 17956,
+          "words": 3488,
+          "sha256": "ce95f1d5808170fe7d1b94e1c497b3a650995f80641f376f21f6678957b9e2db"
+        },
+        {
+          "path": "docs/story/tygaria-vol2/reviews/act2a-round2.md",
+          "bytes": 25818,
+          "words": 4705,
+          "sha256": "908fad35259f77fe91b66b41b496c75e1bc4107a78e0852bb248faf9a0f03d03"
+        },
+        {
+          "path": "docs/story/tygaria-vol2/reviews/act2b-round1-response.md",
+          "bytes": 9282,
+          "words": 1803,
+          "sha256": "f2788e2190a026a84afd1dc5ee294487cd123da04365eead49268ae4666d2691"
+        },
+        {
+          "path": "docs/story/tygaria-vol2/reviews/act2b-round1.md",
+          "bytes": 42718,
+          "words": 7835,
+          "sha256": "83394c00d0c93e9effe087a8d5e12a46d10a7c45cc517a56e407f294072ebc3f"
+        },
+        {
+          "path": "docs/story/tygaria-vol2/reviews/act2b-round2.md",
+          "bytes": 17808,
+          "words": 3347,
+          "sha256": "364feaa1f9f4cd937e6220f6feaed68fc3d27e68e3c1283986282bd3c30b4110"
+        },
+        {
+          "path": "docs/story/tygaria-vol2/reviews/act3-round1-response.md",
+          "bytes": 10264,
+          "words": 1953,
+          "sha256": "ab34a4c34effee5a892720dcba56d3f850d19a5ccf1b0e426a30346cee09d831"
+        },
+        {
+          "path": "docs/story/tygaria-vol2/reviews/act3-round1.md",
+          "bytes": 52890,
+          "words": 9754,
+          "sha256": "f640206b6b2f365ec5d84e4b8e3238008f6556792f428b2b549e48f67c0e0231"
+        },
+        {
+          "path": "docs/story/tygaria-vol2/reviews/act3-round2.md",
+          "bytes": 19546,
+          "words": 3550,
+          "sha256": "96b02545dfbabee428f0ba08fde10ef48d0a8508674d2003410156e0545c8213"
+        },
+        {
+          "path": "docs/story/tygaria-vol2/reviews/manuscript-round1-response.md",
+          "bytes": 11954,
+          "words": 2523,
+          "sha256": "a27169ca307e53241a182b3a2ec8eb7a5cbbd9798cd705d93d81c56cec166d28"
+        },
+        {
+          "path": "docs/story/tygaria-vol2/reviews/manuscript-round1.md",
+          "bytes": 41837,
+          "words": 7675,
+          "sha256": "fdbfddcd2f5bf78aebaa8fec08793daeb8abfa1d21722c30bd8709dcda9193a3"
+        },
+        {
+          "path": "docs/story/tygaria-vol2/reviews/mid-round1-response.md",
+          "bytes": 4055,
+          "words": 756,
+          "sha256": "b496344d3fd63546bbac30bcdff2e1cfc50af31d7db19927469fead4b022629f"
+        },
+        {
+          "path": "docs/story/tygaria-vol2/reviews/mid-round1.md",
+          "bytes": 38843,
+          "words": 7341,
+          "sha256": "923d1fb35e8a7ee75c9508ef13a42bfa166b35abf113ac41a72bd2969d509f4f"
+        },
+        {
+          "path": "docs/story/tygaria-vol2/reviews/out-round1-response.md",
+          "bytes": 7385,
+          "words": 1329,
+          "sha256": "272e8248e0f6aca38fe69668aadb56c61e3a18453f00d09e1883b32559eaf740"
+        },
+        {
+          "path": "docs/story/tygaria-vol2/reviews/out-round1.md",
+          "bytes": 30710,
+          "words": 5682,
+          "sha256": "2fa5720f7eb9e086b0a86830b619da6cf8507fd8279738bcd6ce6c089c024bec"
+        }
+      ]
+    },
+    "tygaria-vol3": {
+      "files": 62,
+      "bytes": 8211296,
+      "words": 218960,
+      "manifest": [
+        {
+          "path": "docs/story/tygaria-vol3/00-front-matter.md",
+          "bytes": 4239,
+          "words": 792,
+          "sha256": "2f41c79183a9e7ae2d21d4cad132b35952995426c7dc66c0a75aaa2c0f3c55ed"
+        },
+        {
+          "path": "docs/story/tygaria-vol3/CHAPTER-PLAN.md",
+          "bytes": 41954,
+          "words": 8003,
+          "sha256": "6a3e5d4e91bba258114783201e1faa190c38825ae8851fcbfa433ceadc925824"
+        },
+        {
+          "path": "docs/story/tygaria-vol3/SPINE.md",
+          "bytes": 237531,
+          "words": 43880,
+          "sha256": "ef4539bafa0d79e4035455b78e012b6511a7238b957353b3f036637d7a5d6b7a"
+        },
+        {
+          "path": "docs/story/tygaria-vol3/TREATMENT.md",
+          "bytes": 63250,
+          "words": 11787,
+          "sha256": "8abefdec02acba174f19b0cd2c83f9f9ec6dd9c1c8d74be0771c22952847de1e"
+        },
+        {
+          "path": "docs/story/tygaria-vol3/portrait-plates.json",
+          "bytes": 5997,
+          "words": 0,
+          "sha256": "e92a2ef32f85c91a87f378d94f96c9588cb3ef55c9d01370ef89a2d58f83cca2"
+        },
+        {
+          "path": "docs/story/tygaria-vol3/chapters/00-prologue.md",
+          "bytes": 6510,
+          "words": 1317,
+          "sha256": "72702e2f322c8919d23b2365569c680476490d68b23a22bb34a3d88c40ae06d2"
+        },
+        {
+          "path": "docs/story/tygaria-vol3/chapters/01-not-at-a-woodpile.md",
+          "bytes": 6992,
+          "words": 1374,
+          "sha256": "0aab72d46459c2e3c84c9b47488e6c15bd415d51e41976d3f446d8266562dbef"
+        },
+        {
+          "path": "docs/story/tygaria-vol3/chapters/02-a-stair-that-ends-in-air.md",
+          "bytes": 7643,
+          "words": 1500,
+          "sha256": "dabc7299702ab2b40a7cb38fc79bd493718e0ec43fab208a5bf08c201d9288e6"
+        },
+        {
+          "path": "docs/story/tygaria-vol3/chapters/03-tea-in-the-ash.md",
+          "bytes": 8539,
+          "words": 1640,
+          "sha256": "9a8ac924a43e966e3f859e27a4185a8ca5c95b546d82679ffba701fe83b0e5d2"
+        },
+        {
+          "path": "docs/story/tygaria-vol3/chapters/04-no-single-address.md",
+          "bytes": 10639,
+          "words": 2077,
+          "sha256": "ea9dbabb8db0486db092b0d244f175f43eb938def78b9c700905419440c2e9e1"
+        },
+        {
+          "path": "docs/story/tygaria-vol3/chapters/05-pactstone.md",
+          "bytes": 6251,
+          "words": 1257,
+          "sha256": "1c33e5039b9964d80d0258c0bed8f44d3a3ca74e3f8523bffbaf7bdca6363dc5"
+        },
+        {
+          "path": "docs/story/tygaria-vol3/chapters/06-one-word.md",
+          "bytes": 11247,
+          "words": 2209,
+          "sha256": "bd7602b24d2f9ff5dcf50f05d4b90d2ab91de24a3542f418a015546c8fadfc33"
+        },
+        {
+          "path": "docs/story/tygaria-vol3/chapters/07-somebody-was.md",
+          "bytes": 8276,
+          "words": 1620,
+          "sha256": "63386b89a26e12d7754e970b28e6851aebcae36902d7d457056cf9a5be048fc8"
+        },
+        {
+          "path": "docs/story/tygaria-vol3/chapters/08-no-charge.md",
+          "bytes": 11301,
+          "words": 2221,
+          "sha256": "81c2df97f138b1e7337910e559441520991463a418f648a4b871e8fcc94050d6"
+        },
+        {
+          "path": "docs/story/tygaria-vol3/chapters/09-a-mule-could-walk-it.md",
+          "bytes": 10228,
+          "words": 2009,
+          "sha256": "fc1a45c24e4cbe2d061d653dc4540230040428c62cd4ab1348532fd996c6dee2"
+        },
+        {
+          "path": "docs/story/tygaria-vol3/chapters/10-best-shot-i-ever-made.md",
+          "bytes": 9563,
+          "words": 1910,
+          "sha256": "ea335dbbe7628ac42027522200b3e8f613082b59cd1dd4c37757d5f24c02c0af"
+        },
+        {
+          "path": "docs/story/tygaria-vol3/chapters/11-look-at-me.md",
+          "bytes": 10622,
+          "words": 2123,
+          "sha256": "61c733a8a7ab31d76fab1b8c6213243f45bc9e92a40ee7aa53369d9a8ddb64d4"
+        },
+        {
+          "path": "docs/story/tygaria-vol3/chapters/12-every-hand-can.md",
+          "bytes": 9289,
+          "words": 1830,
+          "sha256": "cde61ae53585042fcad19a8c89b7c99a568e19aa0dd55c5f76bc45e9df4ab6f6"
+        },
+        {
+          "path": "docs/story/tygaria-vol3/chapters/13-someone-always.md",
+          "bytes": 9786,
+          "words": 1890,
+          "sha256": "d0a8266196215833927b34b641db562ab161759741d77685f5c54f31b38b4223"
+        },
+        {
+          "path": "docs/story/tygaria-vol3/chapters/14-blank-gatherings.md",
+          "bytes": 11231,
+          "words": 2189,
+          "sha256": "8c5d2ae863bf002470766383e89ef842588a595f085dc272508d74e7ae90c94d"
+        },
+        {
+          "path": "docs/story/tygaria-vol3/chapters/15-stories-burn.md",
+          "bytes": 9828,
+          "words": 1972,
+          "sha256": "7dcc085d9031e7dc43a67d967c4b46d334009a55744b0b94b5f985143cdd706c"
+        },
+        {
+          "path": "docs/story/tygaria-vol3/chapters/16-people-who-keep-them.md",
+          "bytes": 13041,
+          "words": 2579,
+          "sha256": "58dd67927c323553fceba59792117f8648b142a5a01e46f303cf7e31a7d867a0"
+        },
+        {
+          "path": "docs/story/tygaria-vol3/chapters/17-the-stone-in-his-hand.md",
+          "bytes": 12242,
+          "words": 2438,
+          "sha256": "8edafa7f5c82a83874c789aee10c00b3c1051523fc0b27a95b75b5e8a8df3f40"
+        },
+        {
+          "path": "docs/story/tygaria-vol3/chapters/18-say-goldtide.md",
+          "bytes": 12990,
+          "words": 2610,
+          "sha256": "224845bada0c0a43401618e170e86d6e124be1ffea75ea3e86b42b2a8ca48d18"
+        },
+        {
+          "path": "docs/story/tygaria-vol3/chapters/19-every-thin-place.md",
+          "bytes": 8910,
+          "words": 1771,
+          "sha256": "faa54893479d994d1cf0b388b2d15e8cc749b78a670fe622908c684452e73a0f"
+        },
+        {
+          "path": "docs/story/tygaria-vol3/chapters/20-the-refusal-at-the-axle.md",
+          "bytes": 12444,
+          "words": 2431,
+          "sha256": "4b889cf77c59f879ac2b86f74cad36683ab206e6fee571d8a44d352368f23757"
+        },
+        {
+          "path": "docs/story/tygaria-vol3/chapters/21-first.md",
+          "bytes": 13777,
+          "words": 2718,
+          "sha256": "7918bd40f7a448609b6fd1ac0f1ebf1d22afc44ae02c4fcf3fc585dc5037ff1b"
+        },
+        {
+          "path": "docs/story/tygaria-vol3/chapters/22-what-stays.md",
+          "bytes": 11627,
+          "words": 2299,
+          "sha256": "5d8f6eb26a1486398040027e707709c2468ff6d4027101791f5215f7925010d4"
+        },
+        {
+          "path": "docs/story/tygaria-vol3/chapters/23-the-road-that-stopped-burning.md",
+          "bytes": 9033,
+          "words": 1809,
+          "sha256": "1fabff20428c6c58c3da8de2a04727b74191487a6d9cbed1c80e0cfb042a2c27"
+        },
+        {
+          "path": "docs/story/tygaria-vol3/chapters/24-theres-a-story.md",
+          "bytes": 8730,
+          "words": 1727,
+          "sha256": "15e31de3f2434636e44f9ee51f9d964f2118288ef53ae51e9ad78e8bf3fbd441"
+        },
+        {
+          "path": "docs/story/tygaria-vol3/chapters/25-epilogue-behind-it-was-depth.md",
+          "bytes": 10349,
+          "words": 2077,
+          "sha256": "485c7d9d390e4ac0e31c86bbb70dafc0bc919c388f2d7424876769cafdcda977"
+        },
+        {
+          "path": "docs/story/tygaria-vol3/kdp/LISTING.md",
+          "bytes": 3744,
+          "words": 674,
+          "sha256": "30a2d00a95f0ff953684e4aee29274e866254d259abd39f7b21431e6f136443f"
+        },
+        {
+          "path": "docs/story/tygaria-vol3/kdp/author-central-square.jpg",
+          "bytes": 96540,
+          "words": 0,
+          "sha256": "295cd48449a845d6a06d6969e0cddf99d88f9ff5e0dac9eada8066212d8d79db"
+        },
+        {
+          "path": "docs/story/tygaria-vol3/kdp/author-ebook.jpg",
+          "bytes": 31178,
+          "words": 0,
+          "sha256": "451fc84b4ef84a169bf059a73aa8d870b418ef6a1878710f61802ff874a7cf74"
+        },
+        {
+          "path": "docs/story/tygaria-vol3/kdp/author-rhiannon-bishop.jpg",
+          "bytes": 301219,
+          "words": 0,
+          "sha256": "10e00e84562c6a54174728df6002495510f5826c2e8cd29b48676ef5ebf294a9"
+        },
+        {
+          "path": "docs/story/tygaria-vol3/kdp/cover-art.png",
+          "bytes": 3955369,
+          "words": 0,
+          "sha256": "56d19f8387fbfed64c45ac412ad543808dd1effc2ffa75728189c89b1389f1e3"
+        },
+        {
+          "path": "docs/story/tygaria-vol3/kdp/cover-front.jpg",
+          "bytes": 1006374,
+          "words": 0,
+          "sha256": "b555e971305bb8ac885e53474f6ad96877e49e4bbeedf04f61e3d48a2782d0a0"
+        },
+        {
+          "path": "docs/story/tygaria-vol3/kdp/cover-original.png",
+          "bytes": 1497710,
+          "words": 0,
+          "sha256": "c8a1714f3b94b95550bb03ef7c8a554cc24249eeb19ae6e2b29a6fd6f0765eeb"
+        },
+        {
+          "path": "docs/story/tygaria-vol3/kdp/cover.typ",
+          "bytes": 907,
+          "words": 0,
+          "sha256": "5358dc1194be4ba369e9b083ddb3bffc36f817e986d1d70301d8a8eb58830f3e"
+        },
+        {
+          "path": "docs/story/tygaria-vol3/kdp/fonts/PressStart2P.ttf",
+          "bytes": 118204,
+          "words": 0,
+          "sha256": "034c77f1f05ec89421e4a63f0e3a4ca1ecf852cc6d2bf611f126f275728e017d"
+        },
+        {
+          "path": "docs/story/tygaria-vol3/kdp/fonts/Silkscreen.ttf",
+          "bytes": 32220,
+          "words": 0,
+          "sha256": "c845473330b94c2079ce9af01c51ac8ba2d99c24f4d14c039843bbb8e642ebd8"
+        },
+        {
+          "path": "docs/story/tygaria-vol3/reviews/act1-round1-editorial.md",
+          "bytes": 37520,
+          "words": 6858,
+          "sha256": "aa790ab0e52fce10eb72b031c99ef4e1215465c24e7533b20383695030ccd852"
+        },
+        {
+          "path": "docs/story/tygaria-vol3/reviews/act1-round1-film.md",
+          "bytes": 46514,
+          "words": 8885,
+          "sha256": "36a8da6da7898fed2167fb4eb10c21342d0477b61811802baad0be987c884936"
+        },
+        {
+          "path": "docs/story/tygaria-vol3/reviews/act1-round1-plotholes.md",
+          "bytes": 26852,
+          "words": 4755,
+          "sha256": "fed4b2e5b81c039309f54acca281b143269459f792dedca3fd4ac96be0d25e3c"
+        },
+        {
+          "path": "docs/story/tygaria-vol3/reviews/act1-round1-response.md",
+          "bytes": 17136,
+          "words": 3321,
+          "sha256": "701d8dba1c9acb800b62912d1c5b0a581752cd575781fa8794df3ba4928e69b4"
+        },
+        {
+          "path": "docs/story/tygaria-vol3/reviews/act1-round2-response.md",
+          "bytes": 6667,
+          "words": 1281,
+          "sha256": "d8dd06c97a22bb21744c076e0d4d39cac7a5c52423592d32ed13631c191cbac3"
+        },
+        {
+          "path": "docs/story/tygaria-vol3/reviews/act1-round2.md",
+          "bytes": 26451,
+          "words": 4865,
+          "sha256": "b093c891335eea59f974270bfe6903441f736e3188294b9116bf137337c70604"
+        },
+        {
+          "path": "docs/story/tygaria-vol3/reviews/act2a-round1-response.md",
+          "bytes": 12570,
+          "words": 2377,
+          "sha256": "1ed73cd0b84e5481c4c80bf393786605fa283050081d2dda7a8cf1531820db9a"
+        },
+        {
+          "path": "docs/story/tygaria-vol3/reviews/act2a-round1.md",
+          "bytes": 45897,
+          "words": 8546,
+          "sha256": "15fc819e85e9ab4e01083d40d865d0568c13687bd22248c8f07c210eefd5dc1c"
+        },
+        {
+          "path": "docs/story/tygaria-vol3/reviews/act2a-round2.md",
+          "bytes": 17759,
+          "words": 3357,
+          "sha256": "429d61ed93db8fe02545b38843a236e73400b42e6d231eed3cd52803a41f17d4"
+        },
+        {
+          "path": "docs/story/tygaria-vol3/reviews/act2b-round1-response.md",
+          "bytes": 16648,
+          "words": 2992,
+          "sha256": "1e05a74d87fc82683ca49bd84da274110bc5ec031cc2c14ed6f88ff3844c81c0"
+        },
+        {
+          "path": "docs/story/tygaria-vol3/reviews/act2b-round1.md",
+          "bytes": 37883,
+          "words": 6956,
+          "sha256": "05658ebb29576dd13bbafebfe00e5e14794e8d27cc796ff7b7f9571d63f84fc2"
+        },
+        {
+          "path": "docs/story/tygaria-vol3/reviews/act2b-round2.md",
+          "bytes": 22388,
+          "words": 4056,
+          "sha256": "be1fe03326c4f2cd23fd2d89ba1e7e3eeb73a29253aa232fe5a2549e7b1f7fb3"
+        },
+        {
+          "path": "docs/story/tygaria-vol3/reviews/act3-round1-response.md",
+          "bytes": 14709,
+          "words": 2765,
+          "sha256": "4e27f8ad861c9df123b08cb0d4c8b1ded5cbb0a7ca0dacb6de360f40d0c123dc"
+        },
+        {
+          "path": "docs/story/tygaria-vol3/reviews/act3-round1.md",
+          "bytes": 43225,
+          "words": 7901,
+          "sha256": "efcdbe6660bf1f9cb941f3e748194e58656b70c3d9fa38157ee0ac6da641d821"
+        },
+        {
+          "path": "docs/story/tygaria-vol3/reviews/act3-round2.md",
+          "bytes": 22882,
+          "words": 4156,
+          "sha256": "4bc2dab4712dcac00f3daaa4e46b2abd406903d9528f8dac273a151249c89cf1"
+        },
+        {
+          "path": "docs/story/tygaria-vol3/reviews/manuscript-round1.md",
+          "bytes": 38627,
+          "words": 7011,
+          "sha256": "3f51af99998d4e0b4f2784158ac97a71c5be91abd4c69493471af6cf40f80d10"
+        },
+        {
+          "path": "docs/story/tygaria-vol3/reviews/mid-round1-response.md",
+          "bytes": 9579,
+          "words": 1793,
+          "sha256": "9b26d8cca7556de3c003c7d726a942013f4f4548d76ce443a6d276de7ed9cb94"
+        },
+        {
+          "path": "docs/story/tygaria-vol3/reviews/mid-round1.md",
+          "bytes": 49312,
+          "words": 9078,
+          "sha256": "4003ed5a8dbfb128a52515df78cdeaa42a2926f50ff53da0c81520928c839a95"
+        },
+        {
+          "path": "docs/story/tygaria-vol3/reviews/mid-round2.md",
+          "bytes": 19722,
+          "words": 3576,
+          "sha256": "9cfe798318d263d3a3043fa4fff3d341fb368acaedb2a2206c9c1f75a7e9e885"
+        },
+        {
+          "path": "docs/story/tygaria-vol3/reviews/out-round1-response.md",
+          "bytes": 8613,
+          "words": 1633,
+          "sha256": "34c19f7b037f0e693c43e16a950aecc6ef07afb9a9a04f7ce16553933a3c8c58"
+        },
+        {
+          "path": "docs/story/tygaria-vol3/reviews/out-round1.md",
+          "bytes": 32818,
+          "words": 6065,
+          "sha256": "f26392ac50d7dc7fc08aa947b09aa1abaf2f3744487ad5cdc50fd5b035f08d70"
+        }
+      ]
+    }
+  }
+}
