@@ -1,0 +1,34 @@
+{
+  "work": "TYGARIA \u2014 cover art for the three volumes",
+  "owner": "Tyga.Cloud Ltd",
+  "author": "Rhiannon Bishop (pen name of the Owner's principal)",
+  "notice": "(c) 2026 Tyga.Cloud Ltd. All rights reserved. TYGARIA(TM) is an unregistered trade mark of Tyga.Cloud Ltd.",
+  "generated_utc": "2026-10-30T11:20:14Z",
+  "authorship_basis": "AI-ASSISTED, AND THE ARRANGEMENTS ARE THE OWNER'S. The cover images were produced with Midjourney v6.1 from prompts written by the author, to a series design grammar the author devised (16-bit pixel art, a single free-standing stone door, one small figure, a deep crimson sky #d2042d lightening to #ff3b3b at the horizon, clear sky reserved at the top for the title and dark ground at the bottom for the author name). The author wrote the prompts, devised the grammar, selected among generations, and set the title and author typography and the paperback wrap layout. The prompts themselves are recorded in the Owner's repository and are original literary work of the author. Under section 9(3) of the Copyright, Designs and Patents Act 1988, the author of a computer-generated work is the person by whom the arrangements necessary for its creation are undertaken; those arrangements are the Owner's. This is stated rather than omitted because a record is only worth what its weakest claim is worth.",
+  "covers": [
+    {
+      "path": "record/cover-art/volume1-cover.jpg",
+      "volume": "Volume I",
+      "title": "The Ironforge Door",
+      "bytes": 562096,
+      "dimensions": "1600x2560",
+      "sha256": "bc1ecb193639cfb80cf014e0de18f0ece0ad495088925c91ca80147663873044"
+    },
+    {
+      "path": "record/cover-art/volume2-cover.jpg",
+      "volume": "Volume II",
+      "title": "The Nightbloom Door",
+      "bytes": 757881,
+      "dimensions": "1600x2560",
+      "sha256": "99cce64474e0a551d86970cea1e03484a5694ed928b8f2384cf9a73ca8ae9017"
+    },
+    {
+      "path": "record/cover-art/volume3-cover.jpg",
+      "volume": "Volume III",
+      "title": "The Burned Library",
+      "bytes": 672975,
+      "dimensions": "1600x2560",
+      "sha256": "7ecd2b38f45faf468966848ef3bf20f45e67610474b0442ab10b6f766bc14104"
+    }
+  ]
+}
